@@ -1,4 +1,4 @@
-## Code Prompt
-# Write everything in a main.py
-# Make a function that returns the two parameters added
-#
+# Code Prompt
+
+## create a file called `main.py`
+## Make a function called `add` that returns the sum of two parameters
